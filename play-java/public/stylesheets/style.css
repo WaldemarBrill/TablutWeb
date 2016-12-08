@@ -29,3 +29,18 @@ body {
 	border: 1px solid #000;
 	background-color: gray;
 }
+#Tabelle {
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid black;
+	border-collapse: collapse;
+}
+.fieldbutton {
+	padding: 16px 16px;
+}
+.fieldbutton.white {
+	background-color: white;
+}
+.fieldbutton.black {
+	background-color: black;
+}
